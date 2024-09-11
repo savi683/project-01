@@ -1,0 +1,2 @@
+admin usernam = admin
+password =123456
